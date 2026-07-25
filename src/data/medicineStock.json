@@ -1,0 +1,167 @@
+[
+  {
+    "id": "med-001",
+    "name": "Paracetamol (Calpol 650mg)",
+    "brand": "GSK",
+    "mrp": 30.50,
+    "availableQuantity": 150,
+    "expiry": "2027-11",
+    "status": "Available",
+    "category": "Prescription Medicines",
+    "description": "Used for relieving fever and mild to moderate pain."
+  },
+  {
+    "id": "med-002",
+    "name": "Pantocid 40mg (Pantoprazole)",
+    "brand": "Sun Pharma",
+    "mrp": 120.00,
+    "availableQuantity": 85,
+    "expiry": "2027-04",
+    "status": "Available",
+    "category": "Prescription Medicines",
+    "description": "Reduces the amount of acid produced in your stomach."
+  },
+  {
+    "id": "med-003",
+    "name": "Amoxyclav 625 (Amoxicillin & Clavulanic Acid)",
+    "brand": "Abbott",
+    "mrp": 204.50,
+    "availableQuantity": 40,
+    "expiry": "2026-10",
+    "status": "Available",
+    "category": "Prescription Medicines",
+    "description": "Antibiotic used to treat bacterial infections."
+  },
+  {
+    "id": "med-004",
+    "name": "Cetirizine 10mg (Okacet)",
+    "brand": "Cipla",
+    "mrp": 18.00,
+    "availableQuantity": 200,
+    "expiry": "2028-01",
+    "status": "Available",
+    "category": "OTC Medicines",
+    "description": "Antihistamine used to relieve allergy symptoms."
+  },
+  {
+    "id": "med-005",
+    "name": "Volini Pain Relief Gel (75g)",
+    "brand": "Sun Pharma",
+    "mrp": 245.00,
+    "availableQuantity": 15,
+    "expiry": "2027-08",
+    "status": "Limited Stock",
+    "category": "OTC Medicines",
+    "description": "Quick pain relief gel for muscle sprains and joint pain."
+  },
+  {
+    "id": "med-006",
+    "name": "Revital H Capsules (30 Caps)",
+    "brand": "Sun Pharma",
+    "mrp": 310.00,
+    "availableQuantity": 60,
+    "expiry": "2027-03",
+    "status": "Available",
+    "category": "Supplements",
+    "description": "Daily health supplement with vitamins and minerals."
+  },
+  {
+    "id": "med-007",
+    "name": "Limcee Vitamin C 500mg Chewable",
+    "brand": "Abbott",
+    "mrp": 25.00,
+    "availableQuantity": 0,
+    "expiry": "2026-12",
+    "status": "Out of Stock",
+    "category": "Supplements",
+    "description": "Vitamin C chewable tablets for immunity support."
+  },
+  {
+    "id": "med-008",
+    "name": "Dettol Liquid Antiseptic (500ml)",
+    "brand": "Reckitt Benckiser",
+    "mrp": 218.00,
+    "availableQuantity": 35,
+    "expiry": "2028-06",
+    "status": "Available",
+    "category": "Personal Care",
+    "description": "Antiseptic liquid for first aid, medical, and personal hygiene."
+  },
+  {
+    "id": "med-009",
+    "name": "Pampers Baby Wipes (80 Sheets)",
+    "brand": "P&G",
+    "mrp": 185.00,
+    "availableQuantity": 50,
+    "expiry": "2027-05",
+    "status": "Available",
+    "category": "Baby Care",
+    "description": "Gentle skin cleaning wipes for babies."
+  },
+  {
+    "id": "med-010",
+    "name": "Himalaya Baby Powder (200g)",
+    "brand": "Himalaya",
+    "mrp": 150.00,
+    "availableQuantity": 8,
+    "expiry": "2027-09",
+    "status": "Limited Stock",
+    "category": "Baby Care",
+    "description": "Gentle baby powder for soft and dry baby skin."
+  },
+  {
+    "id": "med-011",
+    "name": "Accu-Chek Active Test Strips (50 Strips)",
+    "brand": "Roche",
+    "mrp": 975.00,
+    "availableQuantity": 25,
+    "expiry": "2026-08",
+    "status": "Available",
+    "category": "Health Devices",
+    "description": "Blood glucose test strips for Accu-Chek Active meter."
+  },
+  {
+    "id": "med-012",
+    "name": "Omron HEM 7120 Blood Pressure Monitor",
+    "brand": "Omron",
+    "mrp": 2440.00,
+    "availableQuantity": 4,
+    "expiry": "N/A",
+    "status": "Limited Stock",
+    "category": "Health Devices",
+    "description": "Fully automatic upper arm blood pressure monitor."
+  },
+  {
+    "id": "med-013",
+    "name": "Crocin Pain Relief Tablet (15 Tabs)",
+    "brand": "GSK",
+    "mrp": 42.00,
+    "availableQuantity": 120,
+    "expiry": "2027-10",
+    "status": "Available",
+    "category": "OTC Medicines",
+    "description": "Fast relief from headaches and body pains."
+  },
+  {
+    "id": "med-014",
+    "name": "Ecosprin 75mg (Aspirin)",
+    "brand": "USV",
+    "mrp": 10.50,
+    "availableQuantity": 180,
+    "expiry": "2027-02",
+    "status": "Available",
+    "category": "Prescription Medicines",
+    "description": "Antiplatelet medicine used to prevent heart attacks and strokes."
+  },
+  {
+    "id": "med-015",
+    "name": "Digital Thermometer MT1013",
+    "brand": "MicroLife",
+    "mrp": 199.00,
+    "availableQuantity": 0,
+    "expiry": "N/A",
+    "status": "Out of Stock",
+    "category": "Health Devices",
+    "description": "Safe, fast, and highly accurate digital body thermometer."
+  }
+]

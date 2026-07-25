@@ -1,0 +1,6 @@
+{
+  "name": "Noor Medical",
+  "description": "Your trusted medical store in A P Colony, Gaya, Bihar for genuine medicines, health checkups, surgical supplies, and baby care needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
