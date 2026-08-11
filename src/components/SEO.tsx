@@ -17,7 +17,7 @@ export default function SEO({
   schemaType = 'LocalBusiness',
   extraSchema,
 }: SEOProps) {
-  const siteUrl = 'https://noormedical.webmakerit.com'; // Fallback / canonical base
+  const siteUrl = 'https://noor-medical-alpha.vercel.app'; // Vercel production site URL
   const fullUrl = `${siteUrl}${path}`;
 
   useEffect(() => {

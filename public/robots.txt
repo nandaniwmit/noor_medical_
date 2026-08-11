@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://noor-medical-alpha.vercel.app/sitemap.xml
