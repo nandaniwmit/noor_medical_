@@ -263,14 +263,7 @@ export default function Footer() {
           <p>© {new Date().getFullYear()} Noor Medical. All rights reserved.</p>
           <p className="flex items-center gap-1.5">
             <span>Developed by</span>
-            <a 
-              href="https://main.webmakerit.com" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="text-emerald-400 hover:text-white transition-colors font-medium hover:underline"
-            >
-              WMIT
-            </a>
+           <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </p>
         </div>
       </div>
